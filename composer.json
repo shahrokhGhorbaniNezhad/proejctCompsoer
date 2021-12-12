@@ -11,7 +11,7 @@
             "./index.php"
         ]
     },
-
+    "license": ["MIT"],
     "authors": [{
         "name": "shahrokhGhorbaniNezhad",
         "email": "shahrokhghorbanigh8085@gmail.com"
