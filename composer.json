@@ -1,0 +1,20 @@
+{
+    "name": "practice-composer/myproject",
+    "autoload": {
+        "psr-4": {
+            "PracticeComposer\\Myproject\\": "src/",
+            "Admin\\": "Admin/",
+            "auth\\": "auth/"
+        },
+        "files": [
+            "./app/controllers/validation.php",
+            "./index.php"
+        ]
+    },
+
+    "authors": [{
+        "name": "shahrokhGhorbaniNezhad",
+        "email": "shahrokhghorbanigh8085@gmail.com"
+    }],
+    "require": {}
+}
